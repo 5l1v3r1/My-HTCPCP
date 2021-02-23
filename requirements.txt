@@ -1,1 +1,3 @@
 requests
+pycrypto; platform_system=='linux'
+pycryptodome; platform_system=='Windows'
