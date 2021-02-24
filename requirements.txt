@@ -1,3 +1,5 @@
 requests
+tenacity
+aiohttp
 pycrypto; platform_system=='linux'
 pycryptodome; platform_system=='Windows'
