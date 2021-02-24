@@ -1,5 +1,5 @@
 requests
 tenacity
 aiohttp
-pycrypto; platform_system=='linux'
+pycrypto; platform_system=='Linux'
 pycryptodome; platform_system=='Windows'
